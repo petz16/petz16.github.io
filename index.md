@@ -1,4 +1,4 @@
-This portfolio showcases my work in data analysis, focusing primarily on advanced metrics in baseball (MLB) and basketball (NBA/NCAA). All projects are powered by data I've collected or sourced, including the files listed below.
+These are ideas I have for future data analyses/visualizations, focusing primarily on advanced metrics in baseball (MLB) and basketball (NCAAW).
 
 Data Sources and Project Ideas
 
