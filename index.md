@@ -2,8 +2,6 @@ This portfolio showcases my work in data analysis, focusing primarily on advance
 
 Data Sources and Project Ideas
 
-The following are the core datasets driving my current and planned analyses.
-
 ### 1. **MLB Pitcher Performance Percentiles** ([pitcher_percentile_rks](https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher&team=), [Pitcher-stats-2025](https://baseballsavant.mlb.com/leaderboard/custom?year=2025&type=pitcher&filter=&min=q&selections=pa%2Ck_percent%2Cbb_percent%2Cwoba%2Cxwoba%2Csweet_spot_percent%2Cbarrel_batted_rate%2Chard_hit_percent%2Cavg_best_speed%2Cavg_hyper_speed%2Cwhiff_percent%2Cswing_percent&chart=false&x=pa&y=pa&r=no&chartType=beeswarm&sort=xwoba&sortDir=asc))
 * **Description:** Aggregated 2025 season data on pitcher performance, including percentile ranks for key metrics (<span title="Expected Weighted On-Base Average. Uses Statcast data (like exit velocity and launch angle) to estimate the offensive value of a batter's contact, independent of defensive play.">**xwoba**</span>, 
 <span title="Strikeout Percentage. The number of strikeouts divided by the number of plate appearances.">**K_percent**</span>, 
