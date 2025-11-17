@@ -27,17 +27,9 @@ The following are the core datasets driving my current and planned analyses.
 
 ## Where's Schueller?
 
-This section is reserved for a live, embedded Plotly visualization from one of my data analyses.
-.
-
-
-<br>
-
-<div id="schueller-data-viz" style="width: 100%; height: 500px; border: 1px solid #ddd; background-color: #f9f9f9; text-align: center; padding-top: 200px; font-style: italic;">
-  
-    
-    To activate this section, you must upload the standalone HTML/JS output from your Plotly analysis.
-</div>
+<iframe src="my_plot" width="100%" height="600" style="border:none;">
+  <p>Your browser does not support iframes.</p>
+</iframe>
 
 ---
 
