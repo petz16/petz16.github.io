@@ -27,6 +27,6 @@ Data Sources and Project Ideas
 </iframe>
 
 
-## [Completed Final Project for CS 215](https://petz16.github.io/CS-215-Final/)
+## [Completed Final Project for CS 215](https://github.com/petz16/CS-215-Final)
 * Final project examining new baseball statistic vs. fastball velocity
 
